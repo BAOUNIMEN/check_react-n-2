@@ -1,0 +1,32 @@
+body{
+    background: #eda2ed; 
+    background: linear-gradient(to right, #fbccf6, #bdc3c7); 
+}
+
+.form{
+    background-color: white;
+    border-radius: 5px;
+    width: 550px;
+    margin: 20px auto;
+    padding: 20px;
+   
+}
+
+.form-body{
+    text-align: center;
+    padding: 20px 10px;
+}
+
+.form-body > *{
+    padding: 5px;
+}
+
+.Label{
+    width: 40%;
+}
+
+
+
+.footer{
+    text-align: center;
+}
